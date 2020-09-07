@@ -7,15 +7,15 @@
 
 ## Medium Post
 
-1.  [JWT login and Register - React JS and DRF](https://github.com/sjlouji/JWT-login-register-Medium)
+1.  [JWT login and Register - React JS and DRF](https://github.com/sjlouji/JWT-login-register-Medium) <a href="https://medium.com/@sjlouji10/react-js-and-drf-jwt-login-and-register-1998d5db8c50" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
-2.  [CRUD - React JS and DRF](https://github.com/sjlouji/React-Js-and-DRF---CRUD-Form)
+2.  [CRUD - React JS and DRF](https://github.com/sjlouji/React-Js-and-DRF---CRUD-Form) <a href="https://medium.com/@sjlouji10/react-js-and-drf-crud-request-to-django-rest-framework-d4dd94866064" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
-3.  [Models and Relationships - Django](https://github.com/sjlouji/Medium-Django-Model-Relationships)
+3.  [Models and Relationships - Django](https://github.com/sjlouji/Medium-Django-Model-Relationships) <a href="https://medium.com/@sjlouji10/django-models-with-relationships-one-to-one-relationship-f3ef8d77aec1" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
-4.  [JWT auth - DRF](https://github.com/sjlouji/Medium-Django-Rest-Framework-JWT-auth-login-register)
+4.  [JWT auth - DRF](https://github.com/sjlouji/Medium-Django-Rest-Framework-JWT-auth-login-register) <a href="https://medium.com/@sjlouji10/django-rest-framework-jwt-auth-with-drf-e13ccde9e68f" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
-5.  [CRUD - Django](https://github.com/sjlouji/-CURD-Django-Medium)
+5.  [CRUD - Django](https://github.com/sjlouji/-CURD-Django-Medium) <a href="https://medium.com/@sjlouji10/django-crud-application-postgresql-97c62d42eb38" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
 
 
