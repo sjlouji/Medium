@@ -21,6 +21,8 @@
 
 7. [Node JS - Basics of Node js ( Hello world, Routing and Models )](https://github.com/sjlouji/Node-JS-Basics---Medium)<a href="https://medium.com/@sjlouji10/node-js-router-and-routes-a4a3cfced5c4?source=friends_link&sk=a2194e221794364571793dde5b74b93d" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
+8. [Node JS - Template Engine (EJS)](https://github.com/sjlouji/NodeJS-Template-Engine---Medium/tree/master)<a href="https://medium.com/@sjlouji10/node-js-template-engine-bb87c9357e3d" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/sjlouji" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Joanlouji" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sjlouji" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@sjlouji10" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
    <a href="https://joanlouji.web.app/" target="_blank"><img alt="Joan Louji" src="https://img.shields.io/badge/JL-Joan%20Louji-yellowgreen?style=for-the-badge&" /></a>
